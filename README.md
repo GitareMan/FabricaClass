@@ -1,0 +1,2 @@
+# FabricaClass
+Example Fabrica Class 
